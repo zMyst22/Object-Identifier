@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('gothgirl.jpg')
+img = cv.imread('trump.jpg')
 
 classNames = []
 classFile = 'coco.names'
